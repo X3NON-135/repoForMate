@@ -7,7 +7,7 @@ public class Main {
         for (int j = 1; j <= SIZE; j++)
             System.out.print("*");
 
-        System.out.print("\n*Hello world*\n");
+        System.out.print("\n*Hello mates!*\n");
 
         for (int j = 1; j <= SIZE; j++)
             System.out.print("*");
